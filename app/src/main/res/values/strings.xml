@@ -6,4 +6,10 @@
     <string name="Password">Password</string>
     <string name="Login">Login</string>
     <string name="Register">Register</string>
+
+    <!-- Valores para el registrarse -->
+    <string name="Name">Name</string>
+    <string name="Enrollment">Enrollment</string>
+    <string name="Telephone">Telephone</string>
+    <string name="Career">Career</string>
 </resources>
