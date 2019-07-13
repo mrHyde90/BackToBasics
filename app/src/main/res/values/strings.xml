@@ -12,4 +12,10 @@
     <string name="Enrollment">Enrollment</string>
     <string name="Telephone">Telephone</string>
     <string name="Career">Career</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_btb">BTB</string>
+    <string name="nav_favorite">Favorites</string>
+    <string name="nav_msgs">Messages</string>
 </resources>
